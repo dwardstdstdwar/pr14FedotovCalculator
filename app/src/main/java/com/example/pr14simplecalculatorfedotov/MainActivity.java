@@ -1,4 +1,4 @@
-package com.example.pr14simplecalculatorhomyakov;
+package com.example.pr14simplecalculatorfedotov;
 
 import android.os.Bundle;
 import android.widget.Button;

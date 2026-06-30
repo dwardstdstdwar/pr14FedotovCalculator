@@ -1,4 +1,4 @@
-package com.example.pr14simplecalculatorhomyakov;
+package com.example.pr14simplecalculatorfedotov;
 
 import org.junit.Test;
 
